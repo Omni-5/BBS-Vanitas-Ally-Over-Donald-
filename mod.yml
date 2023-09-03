@@ -26,7 +26,7 @@ assets:
    method: copy
    source:
      - name: obj/W_EX020.a.us
-      - name: 03system.bin
+ - name: 03system.bin
    method: binarc
    source:
    - name: sklt 
